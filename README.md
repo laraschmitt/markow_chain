@@ -1,1 +1,3 @@
 # markow_chain
+
+This repo includes the implementation of a ....
